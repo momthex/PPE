@@ -1,0 +1,1 @@
+<HTML> 	<HEAD> <TITLE> Parc Informatique </TITLE> </HEAD> 	<BODY> <h1>Gestion du parc informatique</h1> 	<?php echo $content_for_layout;?> <p>     <a href="<?php echo WEBROOT; ?>index.php">acceuil</a> </p> 	<BODY> </HTML>
